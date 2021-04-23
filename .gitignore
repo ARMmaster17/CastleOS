@@ -1,6 +1,8 @@
 .idea/**
 cmake-build-debug/**
-kernel
+obj/**
+bin/**
+*.bin
 
 # Prerequisites
 *.d
